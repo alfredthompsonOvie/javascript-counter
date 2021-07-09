@@ -1,7 +1,7 @@
 ## SideHustle internship - JavaScript Counter
 
 ---
-Live Site URL: [JavaScript Counter](javascriptcounter.netlify.app)
+Live Site URL: [JavaScript Counter](https://javascriptcounter.netlify.app/)
 
 ---
 
@@ -40,7 +40,7 @@ This is my solution to the SideHustle internship task for week 3 - JavaScript Co
 
 ###### Link
 
-Live Site URL: [JavaScript Counter](javascriptcounter.netlify.app)
+Live Site URL: [JavaScript Counter](https://javascriptcounter.netlify.app/)
 
 ---
 
